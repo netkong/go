@@ -1,3 +1,6 @@
+# 介绍
+fork 这个库用来记录源码阅读的笔记
+
 # The Go Programming Language
 
 Go is an open source programming language that makes it easy to build simple,
